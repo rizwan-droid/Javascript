@@ -1,0 +1,97 @@
+Date 13th march, 2024
+
+Last Class - functions , number system , conversion , addition , sub, multipications 
+
+- ARRAY , object , this keyword 
+
+----------------------------------------------------------------------------------------------------
+
+
+l97 row=1
+row<=5 1<=5 true
+l98 col=1
+col<=5 1<=5 true
+l99 row==col || row+col==6
+ 1==1 || 1+1==6
+ true || false 
+ 1+0=1 true
+ l100 *    *
+
+ col++ col=2
+ col<=5 2<=5 true
+ l99 row==col||row+col==6
+  1==2 || 1+2==6
+  false || false ==false
+  0+0=0 false
+  col+ col=3
+  col<=5 3<=5 true
+  row==col || roow+cxol==6
+  1==3 || 1+3==6 false
+  col++ col=4
+  col<=5 4<=5 true
+row==col || row+col==6
+1==4|| 1+4==6 false
+col++ col=5
+co<=5 5<=5 
+5<5 false
+5=5 true
+l99 row==col ||row+col==6
+1==5 || 1+5==6
+false || true - 
+0+11 =true
+col==++ col=6
+5<=6 false
+
+l105 
+row++ row=2
+row<=5 2<=5 true
+
+
+
+
+l176 val=1
+177 row=1
+row<=5 1<=5 true
+l178 ans=""
+l180 col=1
+col<=1 1<=1 true
+181 ans =""+1 =1
+val=2
+col++ col=2
+col<=row 2<=1 false
+185 1
+row++ row=2
+ans="
+col=1 col<=row 1<=2 
+ans=ans+val "1"+1 =12
+val=3
+
+row++ row=3
+
+
+-------------------------------------------------------------------------------
+DSA Screening Test Syllabus 
+-Is Javascriped compiled or interpreted language?
+-lexical scopes
+- closures questions 
+-  --proto--
+- promise chaining
+- operator chaining 
+- oops using class keyword
+- constructor
+- polyfil
+-----------------------------------------------------------------------------------
+
+
+js level 1 + react 1
+js level2 + react 2
+js level 3 + backend
+
+
+variables 
+variables memory mgmt
+conditionals ( if else else if)
+loops - repeat - while for do while
+functions 
+
+

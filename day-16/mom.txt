@@ -1,0 +1,35 @@
+Function - kuch lines ka code jo tum kahi bhi kese bhi resue kr skte ho 
+
+DRY - Dont repeat ur self
+
+himnshu - pg
+
+brakfast
+lunch 
+dinner 
+
+
+brekfast 
+
+oil
+spices
+veggies
+khaya
+dish wash
+
+
+
+
+lunch
+oilspices
+beggies
+khaya
+dish wash
+
+
+dinner 
+oil
+spices
+veggies
+khaya
+dish wash 

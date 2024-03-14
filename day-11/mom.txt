@@ -1,0 +1,9 @@
+Date 1march,2024
+
+Last Class - Functions intro, es5 , es6 
+
+prime in range using Functions
+return
+diamond using Functions
+number length using Functions
+factor of 3,5,7 between 10-50 using function

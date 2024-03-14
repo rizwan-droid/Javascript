@@ -1,0 +1,72 @@
+Questions and solutions.
+
+1. show output as the pattern.
+*
+**
+***
+****
+*****
+
+2. show the output as the  pattern.
+*****
+*****
+*****
+*****
+*****
+
+3. show the output as the pattern.
+_ _ *
+_ * * *
+* * * * *
+_ * * *
+_ _ *
+
+4. show the output as the pattern.
+*
+**
+***
+**
+*
+
+5. show the output as the pattern.
+*****
+****
+***
+**
+*
+
+6. Show the output of a butterfly pattern.
+7. show the output as the pattern.
+_ _ *
+_ * * *
+* * * * *
+
+8.show the output as the pattern.
+*
+ *
+  *
+   *
+    *
+
+9. show the output as the pattern.
+    *
+   *
+  *
+ *
+*
+
+10. show the output as the pattern.
+*   *
+ * *
+  *
+ * *
+*    *
+
+11. show the output as the pattern.
+*****
+*   *
+*   *
+*   *
+*****
+
+12. print * pattern of swastik symbol of 7,7 - rows,cols

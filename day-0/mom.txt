@@ -1,0 +1,56 @@
+Date -7th feb ,2024
+
+Syllabus 
+1- Js History {done}
+2- intro to Js {done}
+3- variables {done}
+4- conditionals ( if else else if switch ternary) {done}
+5- operators (relational, logical, arithmatic , bitwise)
+6- loops ( for do while while )
+7- functions (inbuilt,customs)
+8- array(1-d, 2-d)
+9- array methods (map filer reduce )
+10- string 
+11- string methods/functions
+12- object 
+12- object props/methods (call apply bind)
+13- spread and rest operators
+14- functional programming 
+15- Hof (high order functions)
+16- Async behaviour of js 
+17- callbacks
+18- callbacks issues (callback hell and inversion of control)
+19- promises 
+20- promise handle (resolve reject)
+21- asyn await
+22- class and object
+23- oops 
+24- this
+25- new 
+26- constructor
+27- prototypes
+28 - protypal inheritance
+29- iterators and geneartors
+30- es 5 es 6 
+31 - misc
+
+---------------------------------------------------------------
+docs - ecma internation doc and mdn doc
+------------------------------------------------------------------
+***** - fundamental.js
+-> jo bhi bacha 4 class miss krdega 
+-> 60-70 logical ques -
+
+
+---------------------------------------------------------------------------
+Day 0 -
+ output 
+ input 
+ conditionals 
+ repeat -loops
+ function
+
+ -----------------------------------------------------------------------
+ output - things which are presented on a screen
+ input - variables 
+ 

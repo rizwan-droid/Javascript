@@ -1,0 +1,46 @@
+Date 9th feb, 2024
+
+what we have done?
+-js intro, history, variable, naming convention(kebab case, snake case, camel case), conditionals (if else, else if)
+
+Recent days?
+-compiler and interpreter coding - how computer understands this compiles
+-variables and constants
+-truthy and falsy 
+
+---------------------------------------------------------------------------------------------------------
+js code-lang- english-compiler/interpreter - 0/1- current flow - computer understanable
+
+compiler/interpreter is a translator which converts instructions(HLL) into machine language
+
+compiler:
+1. compiler - HLL - byte code - coversion process slow 
+2. byte code - machine code - 0/1 - runs fast
+
+interpreter:
+1. interpreter -HLL - 0/1 - conversion process fast
+2. 0/1 - after coversion runs slow
+
+js is a interpreted light weight scripting language.
+
+Google - JIT(just in time) compiler - mixed of both compiler and interpreter
+phase1 - conversion to ML-fast - interpreter
+phase2 - After coversion runs fast - compiler
+
+---------------------------------------------------------------------------------------------------------
+**Variables and constants:
+- var, let, const
+
+**windows
+it only exist in browser there are many more... write window in browser to see them for eg: alert, prompt, onclick etc...these are kept in a vaccum container in a browser and known as window object.
+
+**truthy anf falsy values
+-falsy values: undefined, null, nan(not a number), 0, -0, "", document.all
+-truthy value: apart from falsy value everything is truthy value
+
+There are different inbuild function in js like
+-boolean() -- anything passes in between the boolean function it will show the value is true or false
+---------------------------------------------------------------------------------------------------------
+Datatypes:
+1. Primitive types -- all the interger, float, string, boolean are primitve types
+2. Reference types -- [], {}, ()

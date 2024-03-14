@@ -1,0 +1,7 @@
+Last Class 
+    -js intro, History, js (html, console, code runner ), variable(let), conditionals(if else else if)
+
+--------------------------------------------------------------------
+Date 8th feb , 2024
+
+conditionals, loops 

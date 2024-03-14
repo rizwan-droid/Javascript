@@ -1,0 +1,6 @@
+
+Date 16th feb,2024
+
+Break statement - paas wale loop se bahar aajyga
+continue statement- wo wali iteration skip hojygi.
+

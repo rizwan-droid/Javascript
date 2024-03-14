@@ -1,0 +1,9 @@
+Task - Loops/Repeat
+for Loop
+while Loop
+do while Loop
+logical questions 
+
+loops - repeat 
+
+loop - initiate, condition/statement ,update

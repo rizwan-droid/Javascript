@@ -1,0 +1,18 @@
+Date 14th feb , 2024
+
+Last Class - variables, variable naming convention, conditional (if else else if), window , compiler interpreter, machine code, operator( arithmatic, relational ,logical)
+
+
+Compiler/interpreter
+ 
+ truthy and falsy value 
+
+ falsy - undefined null "" 0 -0 document.all
+ -truthy -1,2"vikas" [1,2,3]
+
+ //undefined null not defined 
+ -undefined is a value 
+ 
+
+ -null - value h jisko define krdia gya h
+ 

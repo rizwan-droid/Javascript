@@ -1,0 +1,64 @@
+1. Hollow Triangle Star Pattern
+*
+**
+* *
+*  *
+*   *
+******
+
+2. Reversed Pyramid Star Pattern
+*********
+ *******
+  *****
+   ***
+    *
+
+3. Hollow Pyramid Star Pattern
+    *
+   * *
+  *   *
+ *     *
+*********
+
+4. Hollow Diamond Pattern
+    *
+   * *
+  *   *
+ *     *
+*       *
+ *     *
+  *   *
+   * *
+    *
+
+5. Hourglass Star Pattern
+*********
+ *******
+  *****
+   ***
+    *
+   ***
+  *****
+ *******
+*********
+
+6. Left Pascal Star Pattern
+    *
+   **
+  ***
+ ****
+*****
+ ****
+  ***
+   **
+    *
+
+7. Heart Star Pattern In JavaScript
+ ***   ***
+***** *****
+***********
+ *********
+  *******
+   *****
+    ***
+     *
