@@ -133,16 +133,21 @@
 
 function countPrimes(ll,ul){
     let count=0;
-    for(let num=ll;num<=ul;num++){
-        
-      
-        for(let div =2;div*div<=num;div++){
+    for(let num=ll;num<=ul;num++){   
+        let nof=0;
+        for(let div=2;div<num;div++){
             if(num%div==0){
-                count=count+1;
+                nof=nof+1;
+                break;
+            }
+            
+            if(nof==0){
+                count+=1;
+                break;
             }
         }
         }
         return count;
     }
-let rv=countPrimes(10,100)
+let rv=countPrimes(1,10)
 console.log(rv);

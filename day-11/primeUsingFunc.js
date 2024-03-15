@@ -1,7 +1,7 @@
 function prime(ll,ul) {
     for(i=ll; i<=ul; i++){
         let nof=0;
-        for(j=2; j*j<=i; j++){
+        for(j=2; j<=i-1; j++){
             if(i%j==0){
                 nof+=1;
                 break;
@@ -14,4 +14,4 @@ function prime(ll,ul) {
         }
     }
 }
-prime(10,50);
+prime(1,10);
