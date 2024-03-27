@@ -1,0 +1,25 @@
+date 21 march, 2024
+
+last class - number notation, armstrong number
+
+armstrong - 153 = 1 ki power 3, 5 ki power 3, 3 ki power 3 = 153;
+power = number of digits
+
+non-primitive
+() - functions
+[] - array
+{} - objects
+
+##ARRAY
+[] - arrays - we can put a bunch of values inside it so it do not pccupy more space - js is dynamic language hence we can store different data types variables inside an array.
+
+RAM memory are of two types - Heap memory and stack memory
+Array are created into a heap memory and uploaded to RAM memory
+
+if we call any array from memory then it gives us the address of that particular array instead of value
+
+indexing of array are started from 0 - n
+
+## undefined and null
+undefined - abhi uska koi value defined nahi hai - matlab hum baad mein value defined karr sakte hain
+null - uska koi value hi nahi hai

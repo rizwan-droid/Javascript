@@ -1,7 +1,7 @@
 function prime(ll,ul) {
     for(i=ll; i<=ul; i++){
         let nof=0;
-        for(j=2; j<=i-1; j++){
+        for(j=2; j*j<=i; j++){
             if(i%j==0){
                 nof+=1;
                 break;
