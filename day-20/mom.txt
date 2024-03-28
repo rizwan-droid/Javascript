@@ -1,0 +1,27 @@
+27 march 2024
+
+last class - array intro, logical questions (odd, even, prime, armstrong)
+
+-array detail
+-rest and spread operator
+-array method
+
+- ram k andar 2 memory hota hai heap memory and stack memory...array is created into ram in a particular address
+
+-indexing start from 0-n
+
+#traverse
+-it means to catch that particular array value. it can be done by different ways
+1. using  for loop
+2. using while loop
+3. using for of, for in and for each loop
+4. using callback function
+
+for of-mainly used for arrays and string
+for in-mainly used for objects
+
+#Rest operator - means to bind - ikatha kardena
+#spread operator - means to scatter - faila dena 
+-both can be recognized by they both contains triple dot'...'
+
+Homework - for in, foreach, deep copy, shallow copy, map, filter, reduce, array push, pop, shift, unshift
