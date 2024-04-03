@@ -1,0 +1,6 @@
+Date 3rd april, 2024
+
+Last Class array ,method, inbuilt methods
+
+objects -  c++ java - class- objects
+class - blueprint , prototypes, category
