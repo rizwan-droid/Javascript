@@ -1,0 +1,4 @@
+date 4th april 2024
+
+- class, function constructor, method overloading, property overriding, method overriding, this keyword, new keyword
+

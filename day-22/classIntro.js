@@ -167,7 +167,7 @@ class Human{
 
 class Animal extends Human{
     constructor(name,legs,hands,gender,food){
-        super(name,legs,hands,gender,food);
+        super(name,legs,hands,gender,food)
         this.name=name;
         this.nooflegs=legs;
         this.noofhands=hands;
