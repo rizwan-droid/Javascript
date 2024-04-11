@@ -1,0 +1,5 @@
+11 april 2024
+
+last  class - meeting
+Advance datatypes - MAP SET WEAKMAP WEAKSET
+- not used mostly but imp for interview
