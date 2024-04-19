@@ -1,0 +1,12 @@
+Date 12th april, 2024
+
+Last Class - Advance Datatypes (map,set,weakmap)
+Weakset, array object destructure ,date object 
+
+
+
+async js - callbacks , promises ,asycn await , generator function , gec , callstack,lexical env , lexical scope. closures (7 class)
+DOM [download capsule , to do app, calculator,form validation,word counter , dynamic api data - card + searching functionlity]
+Vanilla Project - music player , cricket game , weather app, github extractor,Bill generator 
+
+React --
